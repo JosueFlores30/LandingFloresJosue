@@ -1,0 +1,45 @@
+
+header{
+    text-align: justify;
+    text-align: center;
+}
+
+header h1{
+    color: black;
+    text-align: center;
+    display: grid;
+}
+
+
+body{
+
+    font-family:monospace, sans-serif; 
+    background: #FBF2FB; 
+}
+
+a:hover{
+    color: #0015FF;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul{
+    float: top;
+    margin-top: -1px;
+    background-color: pink;
+
+}
+
+main{
+    text-align: center;
+    color: black;
+}
